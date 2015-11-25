@@ -131,7 +131,7 @@ public class databaseAnswersParser
 			
 			for (int click : q.getClick().keySet())
 			{	
-				String currentClick = "Click" + click + "\n";
+				String currentClick = "Click " + click + ", Cliked\n";
 				bw.write(currentClick);
 				Map<String, Integer> attributesMap = q.getClick().get(click);
 				List<String> tuples = new ArrayList<String>();
