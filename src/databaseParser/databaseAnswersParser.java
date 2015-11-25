@@ -7,7 +7,11 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -84,7 +88,7 @@ public class databaseAnswersParser
 		if (questions!=null)
 		{
 			if (!questions.isEmpty())
-			{	//System.out.println("Total Questions: " + questions.size());
+			{	System.out.println("Total Questions: " + questions.size());
 				@SuppressWarnings("unchecked")
 				Iterator<JSONArray> question = questions.listIterator();
 				
@@ -96,12 +100,14 @@ public class databaseAnswersParser
 					@SuppressWarnings("unchecked")
 					Iterator<String> attribute =  attributesArray.listIterator();
 					IQuestion q = this.questions.createQuestion(currentQuestion);
-					
-					//System.out.println("this is current question: " + currentQuestion);
+					int currentClick = 1;
+					System.out.println("this is current question: " + currentQuestion);
 					while (attribute.hasNext())
 					{
+						System.out.println("this is current click: " + currentClick);
 						String currentAttribute = attribute.next();
-						q.insertAttribute(currentAttribute);
+						q.insertClick(currentClick, currentAttribute);
+						currentClick++;
 					}
 					currentQuestion++;	
 				}
@@ -122,14 +128,35 @@ public class databaseAnswersParser
 		{
 			String questionNum = "\tQuestion "+ q.getQuestionNum() + "\n";
 			bw.write(questionNum);
-			String attributes = "";
-			for (String attribute: q.getAttributes().keySet())
-			{
-				attributes = String.format("%s,%s\n", attribute , q.getAttributes().get(attribute));
-				bw.write(attributes);
+			
+			for (int click : q.getClick().keySet())
+			{	
+				String currentClick = "Click" + click + "\n";
+				bw.write(currentClick);
+				Map<String, Integer> attributesMap = q.getClick().get(click);
+				List<String> tuples = new ArrayList<String>();
+				getTuples (attributesMap.keySet(), tuples, attributesMap);
+
+				tuples.sort(new tupleComparator());
+				
+				for (String tuple: tuples)
+				{
+					bw.write(tuple);
+				}
+				bw.write("\n\n");
 			}
-			bw.write("\n\n");
 		}
 		bw.close();
+	}
+	
+	private void getTuples (Set<String> key,List<String> tuples, Map<String, Integer> attributesMap)
+	{
+		for (String attribute: key)
+		{
+			String attributes = String.format("%s,%s\n", 
+												attribute, 
+												attributesMap.get(attribute));
+			tuples.add(attributes);
+		}
 	}
 }
