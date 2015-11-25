@@ -1,4 +1,4 @@
-	Question 1
+"	Question 1",
 Click 1, Clicked
 head light,6
 wings,5
@@ -8,8 +8,8 @@ neck thing,1
 left whisker,1
 right whisker,1
 flower,1
-
-
+,
+,
 Click 2, Clicked
 head light,4
 lipstick,4
@@ -21,8 +21,8 @@ left whisker,1
 ribbon,1
 right arm,1
 chest flower,1
-
-
+,
+,
 Click 3, Clicked
 wings,7
 tails,3
@@ -34,8 +34,8 @@ head light,1
 left whisker,1
 lipstick,1
 left glove,1
-
-
+,
+,
 Click 4, Clicked
 chest,7
 head light,2
@@ -45,8 +45,8 @@ right arm,1
 stomach flower pattern,1
 chest flower,1
 flower,1
-
-
+,
+,
 Click 5, Clicked
 left glove,6
 tails,3
@@ -55,40 +55,40 @@ flower,2
 left sock,1
 tail,1
 right arm,1
-
-
+,
+,
 Click 6, Clicked
 tails,2
 right arm,2
 head light,1
-
-
+,
+,
 Click 7, Clicked
 right arm,2
 chest,1
 tails,1
 right thigh,1
-
-
+,
+,
 Click 8, Clicked
 flower,2
 right thigh,1
 left glove,1
-
-
+,
+,
 Click 9, Clicked
 lipstick,2
 left sock,1
 right thigh,1
-
-
+,
+,
 Click 10, Clicked
 left sock,2
 head light,1
 right arm,1
-
-
-	Question 2
+,
+,
+"	Question 2",
 Click 1, Clicked
 mustache,6
 right head light,4
@@ -99,8 +99,8 @@ head center dot,1
 wings,1
 lipstick,1
 center head light,1
-
-
+,
+,
 Click 2, Clicked
 bottom lip,3
 left arm,3
@@ -111,8 +111,8 @@ wings,2
 right head light,2
 left ring,1
 head right light,1
-
-
+,
+,
 Click 3, Clicked
 left arm,5
 mustache,3
@@ -126,8 +126,8 @@ wings,1
 left arm band,1
 lipstick,1
 center head light,1
-
-
+,
+,
 Click 4, Clicked
 bottom lip,4
 left ring,3
@@ -141,8 +141,8 @@ right thigh,1
 center head light,1
 shirt diamond,1
 mustache,1
-
-
+,
+,
 Click 5, Clicked
 left arm,4
 shirt heart,3
@@ -154,76 +154,76 @@ right ring,1
 right head light,1
 right shoe,1
 left glove,1
-
-
+,
+,
 Click 6, Clicked
 left ring,3
 belt heart,1
 right bracelet,1
-
-
+,
+,
 Click 7, Clicked
 shirt heart,4
 stomach line on left,1
-
-
+,
+,
 Click 8, Clicked
 shirt diamond,2
 stomach line on left,1
 belt heart,1
-
-
+,
+,
 Click 9, Clicked
 shirt diamond,2
 right bracelet,1
 shirt heart,1
-
-
+,
+,
 Click 10, Clicked
 belt heart,2
 stomach line on left,1
 right ring,1
-
-
+,
+,
 Click 11, Clicked
 left sock,1
 stomach line on left,1
 right bracelet,1
 left shoelace,1
-
-
+,
+,
 Click 12, Clicked
 left sock,1
 belt heart,1
 right ring,1
 left shoelace,1
-
-
+,
+,
 Click 13, Clicked
 right shoe,2
 left sock,1
 right sock,1
-
-
+,
+,
 Click 14, Clicked
 right sock,3
 right shoe,1
-
-
+,
+,
 Click 15, Clicked
 bottom lip,1
 left sock,1
 right bracelet,1
 right shoe,1
-
-
+,
+,
 Click 16, Clicked
 left shoelace,2
 left ring,1
 right ring,1
-
-
-	Question 3
+,
+,
+"	Question 3",
 Click 1, Clicked
 nose,6
 ribbon,4
@@ -233,8 +233,8 @@ bottom lip,1
 left arm,1
 shirt diamond,1
 right head light,1
-
-
+,
+,
 Click 2, Clicked
 nose,9
 ribbon,6
@@ -242,8 +242,8 @@ mustache,2
 stomach line on left,1
 shirt heart,1
 shirt X,1
-
-
+,
+,
 Click 3, Clicked
 left ring,4
 ribbon,4
@@ -255,8 +255,8 @@ left arm,1
 center head light,1
 shirt diamond,1
 shirt X,1
-
-
+,
+,
 Click 4, Clicked
 left ring,6
 shirt X,4
@@ -266,8 +266,8 @@ belt square,1
 stomach line on left,1
 center head dot,1
 right head light,1
-
-
+,
+,
 Click 5, Clicked
 shirt X,5
 right bracelet,3
@@ -277,8 +277,8 @@ left arm,2
 left ring,1
 belt heart,1
 shirt diamond,1
-
-
+,
+,
 Click 6, Clicked
 right bracelet,4
 belt square,3
@@ -287,8 +287,8 @@ nose,1
 left ring,1
 right shoelace,1
 left shoe,1
-
-
+,
+,
 Click 7, Clicked
 belt square,6
 right bracelet,3
@@ -296,18 +296,18 @@ left shoe,2
 left ring,1
 right shoelace,1
 center head dot,1
-
-
+,
+,
 Click 8, Clicked
 right shoelace,3
 right bracelet,1
-
-
+,
+,
 Click 9, Clicked
 left shoe,3
-
-
-	Question 4
+,
+,
+"	Question 4",
 Click 1, Clicked
 hair,12
 nose,2
@@ -316,8 +316,8 @@ left ring,1
 stomach vertical pattern,1
 ribbon,1
 left head dot,1
-
-
+,
+,
 Click 2, Clicked
 nose,5
 ribbon,3
@@ -328,8 +328,8 @@ head star,2
 tail,1
 left head dot,1
 right head light,1
-
-
+,
+,
 Click 3, Clicked
 hair,3
 left ring,3
@@ -340,8 +340,8 @@ left head dot,2
 right head light,2
 shirt vertical pattern,1
 shirt X,1
-
-
+,
+,
 Click 4, Clicked
 left head dot,4
 left ear hair,3
@@ -353,8 +353,8 @@ belt square,1
 hair,1
 center head dot,1
 right head light,1
-
-
+,
+,
 Click 5, Clicked
 nose,3
 right head dot,3
@@ -366,8 +366,8 @@ stomach vertical pattern,1
 tail,1
 left head dot,1
 shirt vertical pattern,1
-
-
+,
+,
 Click 6, Clicked
 right bracelet,2
 shirt vertical pattern,2
@@ -375,8 +375,8 @@ nose,1
 stomach vertical pattern,1
 left glove,1
 shirt X,1
-
-
+,
+,
 Click 7, Clicked
 right shoelace,3
 belt square,1
@@ -384,60 +384,60 @@ left sleeve,1
 tail,1
 shirt vertical pattern,1
 right head light,1
-
-
+,
+,
 Click 8, Clicked
 left sleeve,2
 left glove,1
-
-
+,
+,
 Click 9, Clicked
 stomach vertical pattern,1
 right bracelet,1
 left glove,1
-
-
+,
+,
 Click 10, Clicked
 tail,2
 right bracelet,1
-
-
+,
+,
 Click 11, Clicked
 tail,1
 right bracelet,1
 right sock,1
-
-
+,
+,
 Click 12, Clicked
 right thigh,2
 stomach vertical pattern,1
-
-
+,
+,
 Click 13, Clicked
 stomach vertical pattern,1
 right thigh,1
 right sock,1
-
-
+,
+,
 Click 14, Clicked
 left sock,3
-
-
+,
+,
 Click 15, Clicked
 right head dot,1
 right sock,1
 right head light,1
-
-
-	Question 5
+,
+,
+"	Question 5",
 Click 1, Clicked
 hat,8
 tie,4
 hair,4
 flower,2
 right arm,1
-
-
+,
+,
 Click 2, Clicked
 tie,5
 left ear hair,4
@@ -446,8 +446,8 @@ hat,2
 right arm,1
 shirt vertical pattern,1
 pocket,1
-
-
+,
+,
 Click 3, Clicked
 tie,4
 shirt vertical pattern,3
@@ -457,8 +457,8 @@ hat,2
 left ear hair,1
 left sleeve,1
 stomach,1
-
-
+,
+,
 Click 4, Clicked
 pocket,5
 left ring,4
@@ -466,8 +466,8 @@ left sleeve,3
 right arm,3
 left ear hair,1
 left glove,1
-
-
+,
+,
 Click 5, Clicked
 left ring,4
 stomach,4
@@ -476,39 +476,39 @@ left glove,3
 tail,1
 hat,1
 pocket,1
-
-
+,
+,
 Click 6, Clicked
 left ring,2
 stomach,2
-
-
+,
+,
 Click 7, Clicked
 left sock,1
 right arm,1
 stomach,1
 right shoe,1
-
-
+,
+,
 Click 8, Clicked
 right shoe,2
 left sock,1
-
-
+,
+,
 Click 9, Clicked
 left sock,1
 left ring,1
 right shoe,1
-
-
-	Question 6
+,
+,
+"	Question 6",
 Click 1, Clicked
 hair,13
 tie,2
 left ear hair,1
 hat,1
-
-
+,
+,
 Click 2, Clicked
 head spike,5
 lipstick,3
@@ -519,8 +519,8 @@ shirt stars,1
 left blush,1
 left glove,1
 pocket,1
-
-
+,
+,
 Click 3, Clicked
 lipstick,4
 left blush,4
@@ -531,8 +531,8 @@ right blush,1
 right shoe,1
 pocket,1
 left glove,1
-
-
+,
+,
 Click 4, Clicked
 left blush,4
 right blush,3
@@ -543,8 +543,8 @@ stomach,1
 lipstick,1
 head spike,1
 pocket,1
-
-
+,
+,
 Click 5, Clicked
 shirt stars,3
 right blush,2
@@ -557,52 +557,52 @@ stomach,1
 right leg,1
 pocket,1
 left glove,1
-
-
+,
+,
 Click 6, Clicked
 left glove,2
 shirt stars,1
 right ring,1
-
-
+,
+,
 Click 7, Clicked
 shirt stars,1
 right arm,1
 right leg,1
 right shoe,1
-
-
+,
+,
 Click 8, Clicked
 right ring,1
 right arm,1
 right leg,1
-
-
+,
+,
 Click 9, Clicked
 left leg,1
 right ring,1
 left glove,1
-
-
+,
+,
 Click 10, Clicked
 left leg,1
 right blush,1
 right leg,1
-
-
+,
+,
 Click 11, Clicked
 right leg,1
 lipstick,1
 right shoe,1
-
-
+,
+,
 Click 12, Clicked
 left leg,1
 right shoe,1
 left blush,1
-
-
-	Question 7
+,
+,
+"	Question 7",
 Click 1, Clicked
 head triangle,5
 hair,4
@@ -610,8 +610,8 @@ beard,3
 head light,2
 tail,1
 shirt stripes,1
-
-
+,
+,
 Click 2, Clicked
 head triangle,5
 head light,3
@@ -620,8 +620,8 @@ shirt stars,2
 shirt stripes,1
 lipstick,1
 left blush,1
-
-
+,
+,
 Click 3, Clicked
 beard,7
 head light,3
@@ -630,8 +630,8 @@ shirt triangle,1
 lipstick,1
 shirt stripes,1
 left glove,1
-
-
+,
+,
 Click 4, Clicked
 shirt stripes,9
 shirt stars,2
@@ -640,8 +640,8 @@ right blush,1
 beard,1
 head triangle,1
 shirt triangle,1
-
-
+,
+,
 Click 5, Clicked
 shirt triangle,6
 head light,3
@@ -649,20 +649,20 @@ left glove,3
 tail,2
 head triangle,1
 right leg,1
-
-
+,
+,
 Click 6, Clicked
 tail,3
-
-
-	Question 8
+,
+,
+"	Question 8",
 Click 1, Clicked
 right ear heart,9
 beard,4
 head light,2
 tail,1
-
-
+,
+,
 Click 2, Clicked
 beard,6
 head center dot,5
@@ -670,16 +670,16 @@ shirt diamond,2
 right ear heart,1
 shirt triangle,1
 shirt stripes,1
-
-
+,
+,
 Click 3, Clicked
 beard,6
 belt,5
 head center dot,2
 tail,2
 shirt stripes,1
-
-
+,
+,
 Click 4, Clicked
 left ring,8
 shirt diamond,3
@@ -687,8 +687,8 @@ shirt triangle,2
 head triangle,1
 right shoelace,1
 shirt stripes,1
-
-
+,
+,
 Click 5, Clicked
 right bracelet,4
 shirt diamond,4
@@ -698,38 +698,38 @@ head light,1
 head triangle,1
 tail,1
 shirt triangle,1
-
-
+,
+,
 Click 6, Clicked
 right bracelet,2
 right ring,1
 shirt diamond,1
-
-
+,
+,
 Click 7, Clicked
 right ring,2
 right shoelace,1
 shirt diamond,1
-
-
+,
+,
 Click 8, Clicked
 belt,2
 left sock,1
-
-
+,
+,
 Click 9, Clicked
 left sock,1
 right shoelace,1
 right bracelet,1
-
-
+,
+,
 Click 10, Clicked
 left sock,1
 right shoelace,1
 right ring,1
-
-
-	Question 9
+,
+,
+"	Question 9",
 Click 1, Clicked
 hair,8
 bow tie,2
@@ -737,8 +737,8 @@ right ear heart,2
 beard,2
 star,1
 shirt vertical stripes,1
-
-
+,
+,
 Click 2, Clicked
 star,6
 bow tie,2
@@ -748,8 +748,8 @@ left ring,1
 hair,1
 shirt horizontal stripes,1
 right ear heart,1
-
-
+,
+,
 Click 3, Clicked
 bow tie,6
 wings,2
@@ -759,8 +759,8 @@ shirt horizontal stripes,1
 right ear heart,1
 star,1
 right bracelet,1
-
-
+,
+,
 Click 4, Clicked
 wings,6
 bow tie,2
@@ -771,8 +771,8 @@ belt,1
 stomach stripes,1
 right bracelet,1
 shirt diamond,1
-
-
+,
+,
 Click 5, Clicked
 shirt horizontal stripes,3
 wings,3
@@ -781,18 +781,18 @@ shirt vertical stripes,3
 belt,2
 left sock,1
 shirt diamond,1
-
-
+,
+,
 Click 6, Clicked
 shirt horizontal stripes,3
 hair,1
-
-
+,
+,
 Click 7, Clicked
 stomach stripes,3
-
-
-	Question 10
+,
+,
+"	Question 10",
 Click 1, Clicked
 left head dot,4
 neck,4
@@ -800,8 +800,8 @@ left beard,3
 bow tie,2
 hair,1
 shirt vertical stripes,1
-
-
+,
+,
 Click 2, Clicked
 left beard,7
 wings,2
@@ -810,8 +810,8 @@ shirt horizontal stripes,1
 bow tie,1
 left head dot,1
 shirt stripes,1
-
-
+,
+,
 Click 3, Clicked
 right bracelet,4
 neck,4
@@ -820,8 +820,8 @@ shirt vertical stripes,2
 bow tie,1
 shirt horizontal stripes,1
 shirt stripes,1
-
-
+,
+,
 Click 4, Clicked
 shirt stripes,5
 left shoe,3
@@ -831,8 +831,8 @@ left beard,1
 wings,1
 right bracelet,1
 left head dot,1
-
-
+,
+,
 Click 5, Clicked
 right bracelet,6
 stomach stripes,3
@@ -841,21 +841,21 @@ star,1
 left head dot,1
 shirt stripes,1
 neck,1
-
-
+,
+,
 Click 6, Clicked
 left shoe,2
-
-
-	Question 11
+,
+,
+"	Question 11",
 Click 1, Clicked
 hair,8
 left beard,2
 bow tie,1
 left flower,1
 neck,1
-
-
+,
+,
 Click 2, Clicked
 left flower,5
 left ear hair,2
@@ -863,8 +863,8 @@ right head nail,2
 neck,2
 left beard,1
 hair,1
-
-
+,
+,
 Click 3, Clicked
 left ear hair,5
 left flower,3
@@ -872,8 +872,8 @@ shirt stripes,2
 bow tie,1
 right bracelet,1
 right head nail,1
-
-
+,
+,
 Click 4, Clicked
 right head nail,4
 bow tie,2
@@ -882,8 +882,8 @@ right bracelet,2
 left flower,1
 shirt stripes,1
 stomach dots,1
-
-
+,
+,
 Click 5, Clicked
 bow tie,5
 left shoe,2
@@ -892,51 +892,51 @@ hair,1
 tail,1
 left head dot,1
 stomach dots,1
-
-
+,
+,
 Click 6, Clicked
 shirt diamond,6
 right ring,2
 tail,1
 stomach dots,1
-
-
+,
+,
 Click 7, Clicked
 tail,4
 stomach dots,2
 right shoe,2
 right ring,1
 shirt diamond,1
-
-
+,
+,
 Click 8, Clicked
 tail,1
 shirt diamond,1
 right shoe,1
-
-
+,
+,
 Click 9, Clicked
 right ring,1
 left shoe,1
 stomach dots,1
-
-
+,
+,
 Click 10, Clicked
 right shoe,2
-
-
+,
+,
 Click 11, Clicked
 left shoe,2
-
-
-	Question 12
+,
+,
+"	Question 12",
 Click 1, Clicked
 right head diamond,6
 right beard thing,4
 left flower,2
 hair,1
-
-
+,
+,
 Click 2, Clicked
 left head nail,4
 right beard thing,3
@@ -944,8 +944,8 @@ hair,2
 shirt stripes,2
 right ring,1
 left flower,1
-
-
+,
+,
 Click 3, Clicked
 left ring,3
 left head nail,3
@@ -955,8 +955,8 @@ shirt stripes,1
 left leg lace,1
 right beard thing,1
 left leg dots,1
-
-
+,
+,
 Click 4, Clicked
 shirt circle,3
 shirt stripes,3
@@ -967,8 +967,8 @@ left leg lace,1
 shirt diamond,1
 left leg dots,1
 right beard thing,1
-
-
+,
+,
 Click 5, Clicked
 shirt circle,3
 left ring,3
@@ -977,44 +977,44 @@ right ring,1
 right head nail,1
 stomach dots,1
 left leg dots,1
-
-
+,
+,
 Click 6, Clicked
 right shoe,2
 shirt circle,1
 left ring,1
 tail,1
 stomach dots,1
-
-
+,
+,
 Click 7, Clicked
 right ring,4
 tail,1
 right shoe,1
-
-
+,
+,
 Click 8, Clicked
 left leg lace,1
 right shoe,1
-
-
+,
+,
 Click 9, Clicked
 left leg dots,2
-
-
+,
+,
 Click 10, Clicked
 left leg lace,1
 right shoe,1
-
-
-	Question 13
+,
+,
+"	Question 13",
 Click 1, Clicked
 hair,6
 wings,2
 right head diamond,2
 right beard thing,1
-
-
+,
+,
 Click 2, Clicked
 left head triangle,4
 hair,1
@@ -1024,8 +1024,8 @@ left head nail,1
 shirt stripes,1
 under shirt stipe,1
 right beard thing,1
-
-
+,
+,
 Click 3, Clicked
 right head star,4
 shirt circle,1
@@ -1035,8 +1035,8 @@ left head nail,1
 shirt stripes,1
 right beard thing,1
 left head triangle,1
-
-
+,
+,
 Click 4, Clicked
 wings,2
 right arm,2
@@ -1046,8 +1046,8 @@ left ring,1
 left leg lace,1
 left leg dots,1
 left head triangle,1
-
-
+,
+,
 Click 5, Clicked
 shirt stripes,4
 right arm,2
@@ -1056,45 +1056,45 @@ right ring,1
 wings,1
 under shirt stipe,1
 right shoe,1
-
-
+,
+,
 Click 6, Clicked
 shirt red X,2
 right arm,2
 shirt stripes,2
 left leg lace,2
-
-
+,
+,
 Click 7, Clicked
 shirt red X,3
 left leg lace,2
 under shirt stipe,2
 right head star,1
-
-
+,
+,
 Click 8, Clicked
 under shirt stipe,1
-
-
+,
+,
 Click 9, Clicked
 left leg lace,1
-
-
-	Question 14
+,
+,
+"	Question 14",
 Click 1, Clicked
 star,6
 hair,2
 bow tie,2
 wings,1
-
-
+,
+,
 Click 2, Clicked
 left head light,5
 wings,4
 hair,1
 bow tie,1
-
-
+,
+,
 Click 3, Clicked
 bow tie,5
 right head star,1
@@ -1103,8 +1103,8 @@ star,1
 wings,1
 right arm,1
 shirt stripes,1
-
-
+,
+,
 Click 4, Clicked
 wings,5
 tails,2
@@ -1112,8 +1112,8 @@ stomach stripes,1
 shirt stripes,1
 left leg lace,1
 left head triangle,1
-
-
+,
+,
 Click 5, Clicked
 tails,3
 right shoe,3
@@ -1121,8 +1121,8 @@ stomach stripes,2
 shirt red X,1
 shirt stripes,1
 under shirt stipe,1
-
-
+,
+,
 Click 6, Clicked
 stomach stripes,3
 left shoe,3
@@ -1130,8 +1130,8 @@ right arm,2
 tails,1
 left leg lace,1
 right shoe,1
-
-
+,
+,
 Click 7, Clicked
 right shoe,3
 stomach stripes,2
@@ -1140,45 +1140,43 @@ right head star,1
 shirt red X,1
 star,1
 left head triangle,1
-
-
+,
+,
 Click 8, Clicked
 left shoe,1
-
-
-	Question 15
+,
+,
+"	Question 15",
 Click 1, Clicked
 bow tie,1
 star,1
-
-
+,
+,
 Click 2, Clicked
 bow tie,1
 wings,1
-
-
+,
+,
 Click 3, Clicked
 star,1
 wings,1
-
-
+,
+,
 Click 4, Clicked
 stomach stripes,1
 left head light,1
-
-
+,
+,
 Click 5, Clicked
 tails,1
 stomach stripes,1
-
-
+,
+,
 Click 6, Clicked
 tails,1
 right shoe,1
-
-
+,
+,
 Click 7, Clicked
 left shoe,1
 right shoe,1
-
-
