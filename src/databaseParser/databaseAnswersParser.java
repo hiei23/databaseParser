@@ -88,7 +88,7 @@ public class databaseAnswersParser
 		if (questions!=null)
 		{
 			if (!questions.isEmpty())
-			{	System.out.println("Total Questions: " + questions.size());
+			{	//System.out.println("Total Questions: " + questions.size());
 				@SuppressWarnings("unchecked")
 				Iterator<JSONArray> question = questions.listIterator();
 				
@@ -101,10 +101,10 @@ public class databaseAnswersParser
 					Iterator<String> attribute =  attributesArray.listIterator();
 					IQuestion q = this.questions.createQuestion(currentQuestion);
 					int currentClick = 1;
-					System.out.println("this is current question: " + currentQuestion);
+					//System.out.println("this is current question: " + currentQuestion);
 					while (attribute.hasNext())
 					{
-						System.out.println("this is current click: " + currentClick);
+						//System.out.println("this is current click: " + currentClick);
 						String currentAttribute = attribute.next();
 						q.insertClick(currentClick, currentAttribute);
 						currentClick++;
@@ -131,7 +131,7 @@ public class databaseAnswersParser
 			
 			for (int click : q.getClick().keySet())
 			{	
-				String currentClick = "Click " + click + ", Cliked\n";
+				String currentClick = "Click " + click + ", Clicked\n";
 				bw.write(currentClick);
 				Map<String, Integer> attributesMap = q.getClick().get(click);
 				List<String> tuples = new ArrayList<String>();
