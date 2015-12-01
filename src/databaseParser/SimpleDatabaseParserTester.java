@@ -9,7 +9,7 @@ public class SimpleDatabaseParserTester
 	public static void main(String[] args) throws ParseException, IOException
 	{
 		
-		databaseAnswersParser dp = new databaseAnswersParser("c:\\Answer.json");
+		databaseAnswersParser dp = new databaseAnswersParser("Answer.json");
 		dp.parseJSONFile(dp.getJsonObject());
 		dp.writeToFile();
 	}

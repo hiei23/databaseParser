@@ -25,11 +25,12 @@ public class databaseAnswersParser
 	private JSONObject jsonObject;
 	private JSONParser parser;
 	private Questions questions;
-	
-	public databaseAnswersParser(String file) 
+	private String fileName;
+	public databaseAnswersParser(String fileName) 
 	{
 		this.setParser(new JSONParser());
 		questions = new Questions();
+		this.fileName = fileName;
 	}
 
 	
@@ -67,7 +68,7 @@ public class databaseAnswersParser
 	 */
 	public void parseJSONFile(JSONObject jsonObject) throws FileNotFoundException, IOException, ParseException
 	{
-		Object obj = getParser().parse(new FileReader("Answer.json"));
+		Object obj = getParser().parse(new FileReader(this.fileName));
 		jsonObject = (JSONObject) obj;
 		JSONArray result = (JSONArray) jsonObject.get("results");
 
