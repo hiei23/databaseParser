@@ -127,6 +127,8 @@ public class databaseAnswersParser
 
 		for(IQuestion q : this.questions)
 		{
+			//stores the attributes that have been visited
+			List<String> usedAttributes = new ArrayList<String>();
 			String questionNum = "\tQuestion "+ q.getQuestionNum() + "\n";
 			bw.write(questionNum);
 			
@@ -136,8 +138,8 @@ public class databaseAnswersParser
 				bw.write(currentClick);
 				Map<String, Integer> attributesMap = q.getClick().get(click);
 				List<String> tuples = new ArrayList<String>();
-				getTuples (attributesMap.keySet(), tuples, attributesMap);
-
+				getTuples (attributesMap.keySet(), tuples, attributesMap,usedAttributes);
+				
 				tuples.sort(new tupleComparator());
 				
 				for (String tuple: tuples)
@@ -150,14 +152,30 @@ public class databaseAnswersParser
 		bw.close();
 	}
 	
-	private void getTuples (Set<String> key,List<String> tuples, Map<String, Integer> attributesMap)
+	private void getTuples (Set<String> key,List<String> tuples, Map<String, Integer> attributesMap,List<String> usedAttributes)
 	{
+		int max = 0;
+		
 		for (String attribute: key)
 		{
-			String attributes = String.format("%s,%s\n", 
-												attribute, 
-												attributesMap.get(attribute));
-			tuples.add(attributes);
+			if (attributesMap.get(attribute) > max)
+			{
+				max = attributesMap.get(attribute);
+			}
+		}
+		
+		for (String attribute: key)
+		{
+			int current_counter = attributesMap.get(attribute);
+			if ((current_counter == max) && (!usedAttributes.contains(attribute)))
+			{
+				String attributes = String.format("%s,%s\n", 
+													attribute, 
+													current_counter);
+				tuples.add(attributes);
+				usedAttributes.add(attribute);
+			}
+			
 		}
 	}
 }
