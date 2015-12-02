@@ -1843,6 +1843,85 @@
 	{
         "answers": [
             [
+                "beard",
+                "right ear heart",
+                "left ring"
+            ],
+            [
+                "tails",
+                "wings",
+                "left glove",
+                "right thigh",
+                "flower",
+                "left sock",
+                "lipstick",
+                "chest",
+                "right arm"
+            ],
+            [
+                "bow tie",
+                "hair",
+                "star",
+                "wings",
+                "shirt horizontal stripes"
+            ],
+            [
+                "hair",
+                "left head dot",
+                "right head light",
+                "left ear hair",
+                "tail",
+                "right thigh",
+                "right sock",
+                "left sock",
+                "stomach vertical pattern",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "nose",
+                "right bracelet"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "shirt diamond",
+                "shirt heart",
+                "stomach line on left",
+                "right bracelet",
+                "right ring",
+                "left arm",
+                "left ring",
+                "belt heart",
+                "left sock",
+                "left shoelace",
+                "right shoe"
+            ],
+            [
+                "neck",
+                "left beard",
+                "left head dot",
+                "right bracelet",
+                "shirt stripes"
+            ],
+            [
+                "head triangle",
+                "head light",
+                "beard",
+                "shirt stripes",
+                "tail"
+            ]
+        ],
+        "createdAt": "2015-12-02T13:20:51.056Z",
+        "numAliens": 7,
+        "objectId": "6gIdRVhGDt",
+        "updatedAt": "2015-12-02T13:22:42.936Z",
+        "username": "cosmickoala"
+    },
+	{
+        "answers": [
+            [
                 "right ear heart",
                 "head center dot",
                 "shirt diamond"
@@ -1993,6 +2072,78 @@
         "objectId": "7vWgxwW8kI",
         "updatedAt": "2015-12-02T01:43:20.011Z",
         "username": "fucking rektd"
+    },
+	{
+        "answers": [
+            [
+                "beard",
+                "belt",
+                "shirt diamond"
+            ],
+            [
+                "wings",
+                "tails",
+                "left glove",
+                "flower",
+                "right thigh",
+                "left sock",
+                "lipstick",
+                "right arm",
+                "chest"
+            ],
+            [
+                "star",
+                "hair",
+                "bow tie",
+                "wings",
+                "shirt horizontal stripes"
+            ],
+            [
+                "hair",
+                "left ear hair",
+                "left head dot",
+                "right head dot",
+                "right bracelet",
+                "tail",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "stomach vertical pattern",
+                "right thigh",
+                "right sock",
+                "left sock",
+                "nose"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "bottom lip",
+                "mustache",
+                "right bracelet",
+                "right ring",
+                "shirt diamond",
+                "stomach line on left",
+                "right sock",
+                "right shoe",
+                "left shoelace",
+                "left sock",
+                "belt heart",
+                "shirt heart",
+                "left arm"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "right bracelet",
+                "left shoe",
+                "left beard"
+            ]
+        ],
+        "createdAt": "2015-12-02T06:59:59.292Z",
+        "numAliens": 6,
+        "objectId": "8B22gr12s8",
+        "updatedAt": "2015-12-02T07:01:48.263Z",
+        "username": "Tim"
     },
 	{
         "answers": [
@@ -2500,6 +2651,94 @@
             [
                 "right ear heart",
                 "beard",
+                "head center dot"
+            ],
+            [
+                "wings",
+                "tails",
+                "right arm",
+                "chest",
+                "head light",
+                "lipstick",
+                "flower",
+                "right thigh",
+                "left sock"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "shirt horizontal stripes",
+                "shirt vertical stripes"
+            ],
+            [
+                "hair",
+                "right head light",
+                "left head dot",
+                "left ear hair",
+                "shirt vertical pattern",
+                "stomach vertical pattern",
+                "right thigh",
+                "tail",
+                "left sock",
+                "left sleeve",
+                "left glove",
+                "nose",
+                "right sock",
+                "right bracelet"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "shirt diamond",
+                "stomach line on left",
+                "belt heart",
+                "right bracelet",
+                "right ring",
+                "right sock",
+                "right shoe",
+                "left sock"
+            ],
+            [
+                "left head dot",
+                "left beard",
+                "neck",
+                "right bracelet",
+                "left shoe"
+            ],
+            [
+                "head light",
+                "head triangle",
+                "shirt stripes",
+                "beard",
+                "tail"
+            ],
+            [
+                "left ear hair",
+                "left flower",
+                "hair",
+                "right head nail",
+                "bow tie",
+                "shirt diamond",
+                "stomach dots"
+            ]
+        ],
+        "createdAt": "2015-12-02T15:07:26.413Z",
+        "numAliens": 8,
+        "objectId": "AA34yqGfj7",
+        "updatedAt": "2015-12-02T15:09:02.230Z",
+        "username": "alie"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
                 "shirt diamond"
             ],
             [],
@@ -2532,6 +2771,94 @@
         "objectId": "ABGeWvl7k9",
         "updatedAt": "2015-12-01T23:15:54.974Z",
         "username": "kitkat"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
+                "shirt diamond"
+            ],
+            [
+                "wings",
+                "lipstick",
+                "head light",
+                "chest",
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock",
+                "left glove"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "stomach stripes"
+            ],
+            [
+                "hair",
+                "nose",
+                "tail",
+                "right thigh",
+                "right sock",
+                "left glove",
+                "shirt vertical pattern",
+                "left sleeve",
+                "stomach vertical pattern",
+                "left sock",
+                "right bracelet",
+                "left ear hair",
+                "left head dot",
+                "right head light"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "shirt diamond",
+                "right bracelet",
+                "right ring",
+                "stomach line on left",
+                "belt heart",
+                "left shoelace",
+                "left sock",
+                "right sock"
+            ],
+            [
+                "left head dot",
+                "left beard",
+                "neck",
+                "right bracelet",
+                "shirt stripes"
+            ],
+            [
+                "head light",
+                "head triangle",
+                "beard",
+                "shirt stripes",
+                "shirt triangle"
+            ],
+            [
+                "hair",
+                "left flower",
+                "bow tie",
+                "stomach dots",
+                "shirt diamond",
+                "right shoe",
+                "tail"
+            ]
+        ],
+        "createdAt": "2015-12-02T16:04:34.274Z",
+        "numAliens": 8,
+        "objectId": "AdkpVxofDO",
+        "updatedAt": "2015-12-02T16:06:20.232Z",
+        "username": "u"
     },
 	{
         "answers": [
@@ -2620,6 +2947,111 @@
         "objectId": "BUJohfdTi4",
         "updatedAt": "2015-12-01T19:49:32.460Z",
         "username": "ayylmao"
+    },
+	{
+        "answers": [
+            [
+                "beard",
+                "right ear heart",
+                "head center dot"
+            ],
+            [
+                "head light",
+                "lipstick",
+                "wings",
+                "chest",
+                "left glove",
+                "flower",
+                "tails",
+                "right thigh",
+                "left sock"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "shirt vertical stripes",
+                "wings"
+            ],
+            [
+                "hair",
+                "right head dot",
+                "left head dot",
+                "left ear hair",
+                "nose",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "tail",
+                "right thigh",
+                "stomach vertical pattern",
+                "left sock",
+                "right sock",
+                "right bracelet"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "bottom lip",
+                "mustache",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "belt heart",
+                "shirt diamond",
+                "stomach line on left",
+                "right bracelet",
+                "right ring",
+                "right shoe",
+                "right sock",
+                "left sock"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "left beard",
+                "right bracelet",
+                "left shoe"
+            ],
+            [
+                "head light",
+                "head triangle",
+                "beard",
+                "shirt stripes",
+                "tail"
+            ],
+            [
+                "left flower",
+                "left ear hair",
+                "hair",
+                "right head nail",
+                "bow tie",
+                "stomach dots",
+                "tail"
+            ],
+            [
+                "nose",
+                "ribbon",
+                "shirt X",
+                "belt square",
+                "right bracelet",
+                "left ring",
+                "right shoelace",
+                "left shoe"
+            ],
+            [
+                "right head diamond",
+                "left head nail",
+                "right beard thing",
+                "shirt stripes",
+                "shirt circle"
+            ]
+        ],
+        "createdAt": "2015-12-02T19:20:15.617Z",
+        "numAliens": 10,
+        "objectId": "CWSUZcafRW",
+        "updatedAt": "2015-12-02T19:21:37.096Z",
+        "username": "me2"
     },
 	{
         "answers": [
@@ -4458,6 +4890,85 @@
 	{
         "answers": [
             [
+                "right ear heart",
+                "beard",
+                "left ring"
+            ],
+            [
+                "lipstick",
+                "head light",
+                "wings",
+                "chest",
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock",
+                "left glove"
+            ],
+            [
+                "hair",
+                "bow tie",
+                "shirt vertical stripes",
+                "star",
+                "wings"
+            ],
+            [
+                "hair",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "left ear hair",
+                "left head dot",
+                "right head dot",
+                "right head light",
+                "nose",
+                "right bracelet",
+                "tail",
+                "stomach vertical pattern",
+                "right thigh",
+                "left sock"
+            ],
+            [
+                "center head light",
+                "right head light",
+                "bottom lip",
+                "mustache",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "belt heart",
+                "stomach line on left",
+                "shirt diamond",
+                "right bracelet",
+                "right ring",
+                "right shoe",
+                "right sock",
+                "left sock"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "right bracelet",
+                "shirt stripes",
+                "left shoe"
+            ],
+            [
+                "head light",
+                "head triangle",
+                "beard",
+                "shirt stripes",
+                "shirt triangle"
+            ]
+        ],
+        "createdAt": "2015-12-02T14:35:51.838Z",
+        "numAliens": 7,
+        "objectId": "Ituljb133y",
+        "updatedAt": "2015-12-02T14:37:16.930Z",
+        "username": "danielz"
+    },
+	{
+        "answers": [
+            [
                 "head center dot",
                 "beard",
                 "shirt diamond"
@@ -5039,6 +5550,142 @@
         "answers": [
             [
                 "right ear heart",
+                "beard",
+                "shirt diamond"
+            ],
+            [
+                "wings",
+                "tails",
+                "right thigh",
+                "head light",
+                "lipstick",
+                "left glove",
+                "chest",
+                "flower",
+                "left sock"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "shirt vertical stripes",
+                "shirt horizontal stripes"
+            ],
+            [
+                "hair",
+                "tail",
+                "right thigh",
+                "left glove",
+                "nose",
+                "left ear hair",
+                "left head dot",
+                "right head dot",
+                "shirt vertical pattern",
+                "left sleeve",
+                "stomach vertical pattern",
+                "left sock",
+                "right sock",
+                "right bracelet"
+            ]
+        ],
+        "createdAt": "2015-12-02T20:22:38.669Z",
+        "numAliens": 4,
+        "objectId": "Ok0AoZrNyU",
+        "updatedAt": "2015-12-02T20:23:53.067Z",
+        "username": "blox"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
+                "head center dot"
+            ],
+            [
+                "head light",
+                "lipstick",
+                "wings",
+                "chest",
+                "left glove",
+                "flower",
+                "tails",
+                "right thigh",
+                "left sock"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "shirt vertical stripes"
+            ],
+            [
+                "hair",
+                "right head dot",
+                "left head dot",
+                "left ear hair",
+                "right head light",
+                "right bracelet",
+                "tail",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "stomach vertical pattern",
+                "right thigh",
+                "right sock",
+                "left sock"
+            ],
+            [
+                "center head light",
+                "right head light",
+                "right ring",
+                "right bracelet",
+                "left arm",
+                "left ring",
+                "bottom lip",
+                "mustache",
+                "shirt heart",
+                "shirt diamond",
+                "stomach line on left",
+                "belt heart",
+                "left sock",
+                "left shoelace",
+                "right shoe"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "left beard",
+                "right bracelet",
+                "left shoe"
+            ],
+            [
+                "head triangle",
+                "head light",
+                "beard",
+                "shirt stripes",
+                "shirt triangle"
+            ],
+            [
+                "left ear hair",
+                "left flower",
+                "hair",
+                "right head nail",
+                "right ring",
+                "tail",
+                "shirt diamond"
+            ]
+        ],
+        "createdAt": "2015-12-02T13:46:26.046Z",
+        "numAliens": 8,
+        "objectId": "Op22hnkMkV",
+        "updatedAt": "2015-12-02T13:47:42.493Z",
+        "username": "carp"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
                 "belt",
                 "shirt diamond"
             ],
@@ -5412,6 +6059,78 @@
 	{
         "answers": [
             [
+                "head center dot",
+                "right ear heart",
+                "beard"
+            ],
+            [
+                "lipstick",
+                "wings",
+                "head light",
+                "tails",
+                "chest",
+                "left sock",
+                "right thigh",
+                "left glove",
+                "flower"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "shirt vertical stripes"
+            ],
+            [
+                "hair",
+                "right head dot",
+                "left head dot",
+                "left glove",
+                "tail",
+                "nose",
+                "shirt vertical pattern",
+                "stomach vertical pattern",
+                "right thigh",
+                "left sock",
+                "right sock",
+                "left sleeve",
+                "left ear hair",
+                "right bracelet"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "right ring",
+                "right bracelet",
+                "shirt diamond",
+                "stomach line on left",
+                "belt heart",
+                "shirt heart",
+                "left arm",
+                "left ring",
+                "left sock",
+                "right sock",
+                "left shoelace"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "right bracelet",
+                "left beard",
+                "shirt stripes"
+            ]
+        ],
+        "createdAt": "2015-12-02T05:23:27.418Z",
+        "numAliens": 6,
+        "objectId": "QQM3srQzNP",
+        "updatedAt": "2015-12-02T05:24:57.724Z",
+        "username": "jj"
+    },
+	{
+        "answers": [
+            [
                 "right ear heart",
                 "beard",
                 "left ring"
@@ -5620,6 +6339,71 @@
         "objectId": "R939VT6uSy",
         "updatedAt": "2015-12-02T03:15:42.519Z",
         "username": "FREE TAIWAN"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "head center dot",
+                "beard"
+            ],
+            [
+                "tails",
+                "wings",
+                "chest",
+                "right thigh",
+                "flower",
+                "left sock",
+                "left glove",
+                "head light",
+                "lipstick"
+            ],
+            [
+                "hair",
+                "bow tie",
+                "star",
+                "shirt horizontal stripes",
+                "shirt vertical stripes"
+            ],
+            [
+                "tail",
+                "shirt vertical pattern",
+                "right bracelet",
+                "left sleeve",
+                "left glove",
+                "hair",
+                "nose",
+                "right head light",
+                "left head dot",
+                "left ear hair",
+                "right sock",
+                "left sock",
+                "right thigh",
+                "stomach vertical pattern"
+            ],
+            [
+                "center head light",
+                "right head light",
+                "mustache",
+                "bottom lip",
+                "right bracelet",
+                "right ring",
+                "stomach line on left",
+                "shirt diamond",
+                "shirt heart",
+                "belt heart",
+                "left arm",
+                "left ring",
+                "left sock",
+                "left shoelace",
+                "right shoe"
+            ]
+        ],
+        "createdAt": "2015-12-02T19:18:04.620Z",
+        "numAliens": 5,
+        "objectId": "REt0LPyRMW",
+        "updatedAt": "2015-12-02T19:19:32.865Z",
+        "username": "me"
     },
 	{
         "answers": [
@@ -6480,6 +7264,78 @@
         "objectId": "UhdtY2UowC",
         "updatedAt": "2015-12-02T03:15:59.909Z",
         "username": "TAIWAN HAS HOTTEST GIRLS"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
+                "belt"
+            ],
+            [
+                "head light",
+                "wings",
+                "tails",
+                "left glove",
+                "chest",
+                "flower",
+                "left sock",
+                "lipstick",
+                "right arm"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "shirt vertical stripes"
+            ],
+            [
+                "left head dot",
+                "right head light",
+                "hair",
+                "left ear hair",
+                "nose",
+                "shirt vertical pattern",
+                "tail",
+                "left sleeve",
+                "right bracelet",
+                "left glove",
+                "stomach vertical pattern",
+                "right thigh",
+                "right sock",
+                "left sock"
+            ],
+            [
+                "center head light",
+                "right head light",
+                "mustache",
+                "bottom lip",
+                "stomach line on left",
+                "shirt heart",
+                "belt heart",
+                "shirt diamond",
+                "right bracelet",
+                "right ring",
+                "left arm",
+                "left ring",
+                "left sock",
+                "left shoelace",
+                "right sock"
+            ],
+            [
+                "left head dot",
+                "left beard",
+                "neck",
+                "right bracelet",
+                "left shoe"
+            ]
+        ],
+        "createdAt": "2015-12-02T17:05:39.998Z",
+        "numAliens": 6,
+        "objectId": "UuRNg5Dycz",
+        "updatedAt": "2015-12-02T17:07:33.645Z",
+        "username": "sim"
     },
 	{
         "answers": [
@@ -8086,6 +8942,78 @@
         "answers": [
             [
                 "right ear heart",
+                "head center dot",
+                "beard"
+            ],
+            [
+                "wings",
+                "chest",
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock",
+                "left glove",
+                "lipstick",
+                "head light"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "shirt vertical stripes"
+            ],
+            [
+                "hair",
+                "left head dot",
+                "left ear hair",
+                "right head light",
+                "nose",
+                "left glove",
+                "left sleeve",
+                "shirt vertical pattern",
+                "tail",
+                "right bracelet",
+                "stomach vertical pattern",
+                "left sock",
+                "right thigh",
+                "right sock"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "belt heart",
+                "stomach line on left",
+                "shirt diamond",
+                "right bracelet",
+                "right ring",
+                "mustache",
+                "bottom lip",
+                "left sock",
+                "left shoelace",
+                "right sock"
+            ],
+            [
+                "left head dot",
+                "left beard",
+                "neck",
+                "shirt stripes",
+                "right bracelet"
+            ]
+        ],
+        "createdAt": "2015-12-02T06:46:39.444Z",
+        "numAliens": 6,
+        "objectId": "bNXTQGU3XQ",
+        "updatedAt": "2015-12-02T06:48:06.256Z",
+        "username": "jumba"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
                 "right bracelet",
                 "beard"
             ],
@@ -8459,6 +9387,78 @@
         "objectId": "cZNCht5QVI",
         "updatedAt": "2015-12-01T22:43:27.320Z",
         "username": "Sk8"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
+                "belt"
+            ],
+            [
+                "head light",
+                "wings",
+                "chest",
+                "right arm",
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock",
+                "left glove"
+            ],
+            [
+                "hair",
+                "bow tie",
+                "shirt horizontal stripes",
+                "shirt vertical stripes",
+                "stomach stripes"
+            ],
+            [
+                "hair",
+                "nose",
+                "left glove",
+                "stomach vertical pattern",
+                "shirt vertical pattern",
+                "tail",
+                "right thigh",
+                "right sock",
+                "left sock",
+                "left sleeve",
+                "right bracelet",
+                "left head dot",
+                "left ear hair",
+                "right head dot"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "right ring",
+                "right bracelet",
+                "shirt diamond",
+                "stomach line on left",
+                "belt heart",
+                "right sock",
+                "right shoe",
+                "left sock",
+                "left shoelace",
+                "shirt heart",
+                "left arm"
+            ],
+            [
+                "neck",
+                "right bracelet",
+                "left shoe",
+                "left beard",
+                "left head dot"
+            ]
+        ],
+        "createdAt": "2015-12-02T15:58:27.293Z",
+        "numAliens": 6,
+        "objectId": "ctF70McDa9",
+        "updatedAt": "2015-12-02T15:59:40.771Z",
+        "username": "gigamyke"
     },
 	{
         "answers": [
@@ -9561,6 +10561,94 @@
 	{
         "answers": [
             [
+                "right ear heart",
+                "beard",
+                "shirt diamond"
+            ],
+            [
+                "lipstick",
+                "wings",
+                "head light",
+                "chest",
+                "right arm",
+                "tails",
+                "left glove",
+                "flower",
+                "right thigh"
+            ],
+            [
+                "hair",
+                "bow tie",
+                "shirt vertical stripes",
+                "shirt horizontal stripes",
+                "wings"
+            ],
+            [
+                "hair",
+                "right head dot",
+                "nose",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "stomach vertical pattern",
+                "tail",
+                "right bracelet",
+                "left head dot",
+                "left ear hair",
+                "right thigh",
+                "right sock",
+                "left sock"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "shirt diamond",
+                "stomach line on left",
+                "belt heart",
+                "right ring",
+                "right bracelet",
+                "right shoe",
+                "right sock",
+                "left sock"
+            ],
+            [
+                "left head dot",
+                "left beard",
+                "neck",
+                "right bracelet",
+                "left shoe"
+            ],
+            [
+                "head triangle",
+                "head light",
+                "beard",
+                "shirt stripes",
+                "tail"
+            ],
+            [
+                "left flower",
+                "hair",
+                "right head nail",
+                "left ear hair",
+                "bow tie",
+                "stomach dots",
+                "tail"
+            ]
+        ],
+        "createdAt": "2015-12-02T17:37:09.783Z",
+        "numAliens": 8,
+        "objectId": "jFoAr7ERBV",
+        "updatedAt": "2015-12-02T17:38:28.630Z",
+        "username": "No"
+    },
+	{
+        "answers": [
+            [
                 "head center dot",
                 "right ear heart",
                 "beard"
@@ -9622,6 +10710,85 @@
         "objectId": "jSHK6OePRv",
         "updatedAt": "2015-12-02T02:54:31.273Z",
         "username": "Grant sucks big penis"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "head center dot",
+                "belt"
+            ],
+            [
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock",
+                "left glove",
+                "chest",
+                "wings",
+                "lipstick",
+                "head light"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "stomach stripes",
+                "shirt horizontal stripes"
+            ],
+            [
+                "hair",
+                "left head dot",
+                "left ear hair",
+                "right head light",
+                "tail",
+                "shirt vertical pattern",
+                "left sleeve",
+                "left glove",
+                "stomach vertical pattern",
+                "right thigh",
+                "left sock",
+                "right sock",
+                "right bracelet",
+                "nose"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "bottom lip",
+                "left ring",
+                "left arm",
+                "shirt heart",
+                "shirt diamond",
+                "right bracelet",
+                "right ring",
+                "stomach line on left",
+                "belt heart",
+                "left sock",
+                "left shoelace",
+                "right sock"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "shirt stripes",
+                "right bracelet",
+                "left shoe"
+            ],
+            [
+                "head light",
+                "shirt stripes",
+                "beard",
+                "head triangle",
+                "tail"
+            ]
+        ],
+        "createdAt": "2015-12-02T13:11:40.152Z",
+        "numAliens": 7,
+        "objectId": "jkMRdyMnlH",
+        "updatedAt": "2015-12-02T13:12:55.726Z",
+        "username": "leslie"
     },
 	{
         "answers": [
@@ -10187,6 +11354,159 @@
         "answers": [
             [
                 "right ear heart",
+                "beard",
+                "shirt diamond"
+            ],
+            [
+                "head light",
+                "wings",
+                "chest",
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock",
+                "lipstick",
+                "right arm"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "shirt vertical stripes"
+            ],
+            [
+                "right head dot",
+                "hair",
+                "left ear hair",
+                "left head dot",
+                "nose",
+                "left glove",
+                "left sleeve",
+                "shirt vertical pattern",
+                "right bracelet",
+                "tail",
+                "stomach vertical pattern",
+                "left sock",
+                "right thigh",
+                "right sock"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "mustache",
+                "left ring",
+                "left arm",
+                "shirt heart",
+                "shirt diamond",
+                "belt heart",
+                "stomach line on left",
+                "right bracelet",
+                "right ring",
+                "right sock",
+                "left sock",
+                "left shoelace",
+                "right shoe"
+            ],
+            [
+                "left head dot",
+                "left beard",
+                "neck",
+                "right bracelet",
+                "shirt stripes"
+            ],
+            [
+                "head light",
+                "head triangle",
+                "beard",
+                "shirt stripes",
+                "shirt triangle"
+            ],
+            [
+                "left flower",
+                "hair",
+                "right head nail",
+                "right ring",
+                "tail",
+                "bow tie",
+                "shirt diamond"
+            ]
+        ],
+        "createdAt": "2015-12-02T05:59:17.770Z",
+        "numAliens": 8,
+        "objectId": "nOWUwTahcX",
+        "updatedAt": "2015-12-02T06:00:45.768Z",
+        "username": "metra"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
+                "shirt diamond"
+            ],
+            [
+                "head light",
+                "wings",
+                "left glove",
+                "chest",
+                "flower",
+                "left sock",
+                "right thigh",
+                "tails",
+                "lipstick"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "shirt vertical stripes",
+                "wings"
+            ],
+            [
+                "hair",
+                "right head light",
+                "left head dot",
+                "left glove",
+                "nose",
+                "left sleeve",
+                "shirt vertical pattern",
+                "stomach vertical pattern",
+                "right thigh",
+                "left sock",
+                "right sock",
+                "tail",
+                "right bracelet",
+                "right head dot"
+            ],
+            [
+                "center head light",
+                "right head light",
+                "mustache",
+                "bottom lip",
+                "left ring",
+                "left arm",
+                "shirt heart",
+                "belt heart",
+                "left sock",
+                "left shoelace",
+                "right sock",
+                "right shoe",
+                "shirt diamond",
+                "stomach line on left",
+                "right bracelet"
+            ]
+        ],
+        "createdAt": "2015-12-02T06:12:02.984Z",
+        "numAliens": 5,
+        "objectId": "neVIpiVKSo",
+        "updatedAt": "2015-12-02T06:13:14.651Z",
+        "username": ""
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
                 "head center dot",
                 "beard"
             ],
@@ -10270,6 +11590,85 @@
         "objectId": "nn6rhFIZe2",
         "updatedAt": "2015-12-01T22:10:30.877Z",
         "username": "kt"
+    },
+	{
+        "answers": [
+            [
+                "beard",
+                "right ear heart",
+                "shirt diamond"
+            ],
+            [
+                "head light",
+                "chest",
+                "wings",
+                "left glove",
+                "lipstick",
+                "tails",
+                "flower",
+                "right thigh",
+                "left sock"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "shirt vertical stripes",
+                "wings"
+            ],
+            [
+                "hair",
+                "shirt vertical pattern",
+                "stomach vertical pattern",
+                "tail",
+                "right thigh",
+                "right sock",
+                "left sock",
+                "left glove",
+                "left ear hair",
+                "nose",
+                "right head light",
+                "left head dot",
+                "left sleeve",
+                "right bracelet"
+            ],
+            [
+                "center head light",
+                "right head light",
+                "mustache",
+                "bottom lip",
+                "left arm",
+                "left ring",
+                "shirt heart",
+                "belt heart",
+                "left sock",
+                "left shoelace",
+                "right shoe",
+                "right sock",
+                "stomach line on left",
+                "shirt diamond",
+                "right bracelet"
+            ],
+            [
+                "left head dot",
+                "neck",
+                "right bracelet",
+                "left shoe",
+                "left beard"
+            ],
+            [
+                "head light",
+                "head triangle",
+                "beard",
+                "shirt stripes",
+                "shirt triangle"
+            ]
+        ],
+        "createdAt": "2015-12-02T10:36:19.093Z",
+        "numAliens": 7,
+        "objectId": "oWL5p8FFYA",
+        "updatedAt": "2015-12-02T10:37:41.355Z",
+        "username": "shaz"
     },
 	{
         "answers": [
@@ -10764,6 +12163,71 @@
         "objectId": "pROe1wYWVO",
         "updatedAt": "2015-12-02T00:46:41.178Z",
         "username": "AMartin"
+    },
+	{
+        "answers": [
+            [
+                "right ear heart",
+                "beard",
+                "shirt diamond"
+            ],
+            [
+                "wings",
+                "lipstick",
+                "left glove",
+                "flower",
+                "right thigh",
+                "left sock",
+                "right arm",
+                "head light",
+                "tails"
+            ],
+            [
+                "hair",
+                "star",
+                "bow tie",
+                "wings",
+                "shirt horizontal stripes"
+            ],
+            [
+                "hair",
+                "tail",
+                "left glove",
+                "right thigh",
+                "right sock",
+                "shirt vertical pattern",
+                "stomach vertical pattern",
+                "left sleeve",
+                "left sock",
+                "right head dot",
+                "left head dot",
+                "nose",
+                "left ear hair",
+                "right bracelet"
+            ],
+            [
+                "right head light",
+                "center head light",
+                "left arm",
+                "left ring",
+                "left shoelace",
+                "right shoe",
+                "stomach line on left",
+                "belt heart",
+                "shirt diamond",
+                "shirt heart",
+                "mustache",
+                "right ring",
+                "bottom lip",
+                "right bracelet",
+                "left sock"
+            ]
+        ],
+        "createdAt": "2015-12-02T09:10:55.059Z",
+        "numAliens": 5,
+        "objectId": "peton1kCLO",
+        "updatedAt": "2015-12-02T09:12:18.868Z",
+        "username": "Lijax"
     },
 	{
         "answers": [

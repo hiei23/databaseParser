@@ -8,7 +8,11 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -138,10 +142,9 @@ public class databaseAnswersParser
 				bw.write(currentClick);
 				Map<String, Integer> attributesMap = q.getClick().get(click);
 				List<String> tuples = new ArrayList<String>();
+				attributesMap = sortByComparator(attributesMap);
 				getTuples (attributesMap.keySet(), tuples, attributesMap,usedAttributes);
-				
-				//tuples.sort(new tupleComparator());
-				
+								
 				for (String tuple: tuples)
 				{
 					bw.write(tuple);
@@ -154,26 +157,70 @@ public class databaseAnswersParser
 	
 	private void getTuples (Set<String> key,List<String> tuples, Map<String, Integer> attributesMap,List<String> usedAttributes)
 	{
-		int max = 0;
+		List<Integer> max = new ArrayList<Integer>();
+		int maxIndex = 0;
+		boolean inserted = false;
 		
 		for (String attribute: key)
 		{
-			if (attributesMap.get(attribute) > max)
+			if (!max.contains(attributesMap.get(attribute)))
 			{
-				max = attributesMap.get(attribute);
+				max.add(attributesMap.get(attribute));
 			}
 		}
 		
+		for (String attribute: key)
+		{
+			//System.out.println(String.format("%s,%s\n", attribute,attributesMap.get(attribute)));
+			int current_counter = attributesMap.get(attribute);
+			boolean isMax = current_counter == max.get(maxIndex);
+			//case whether there is a tie or is never inserted
+			boolean repeated = usedAttributes.contains(attribute);
+			if ((isMax && (!repeated)) || ((isMax) && (!repeated) && !inserted))
+			{
+				String attributes = String.format("%s\n", attribute,current_counter);
+				tuples.add(attributes);
+				usedAttributes.add(attribute);
+				inserted=true;
+			}
+			
+			if (!inserted)
+			{
+				if ((maxIndex + 1) < max.size())
+				{
+					maxIndex++;
+				}
+			}
+		}
+	}
+	
+	private void getTuplesWithCounters (Set<String> key,List<String> tuples, Map<String, Integer> attributesMap,List<String> usedAttributes)
+	{
+				
 		for (String attribute: key)
 		{
 			int current_counter = attributesMap.get(attribute);
-			if ((current_counter == max) && (!usedAttributes.contains(attribute)))
-			{
-				String attributes = String.format("%s\n", attribute);
-				tuples.add(attributes);
-				usedAttributes.add(attribute);
-			}
-			
+			String attributes = String.format("%s,%s\n", attribute, current_counter);
+			tuples.add(attributes);
+			usedAttributes.add(attribute);
 		}
+	}
+	
+	private static Map<String, Integer> sortByComparator(Map<String, Integer> unsortMap) {
+
+		// Convert Map to List
+		List<Map.Entry<String, Integer>> list = 
+			new LinkedList<Map.Entry<String, Integer>>(unsortMap.entrySet());
+
+		// Sort list in descending order with comparator, to compare the Map values
+		Collections.sort(list, new MapValueComparator());
+		Collections.reverse(list);
+		// Convert sorted map back to a Map
+		Map<String, Integer> sortedMap = new LinkedHashMap<String, Integer>();
+		for (Iterator<Map.Entry<String, Integer>> it = list.iterator(); it.hasNext();) {
+			Map.Entry<String, Integer> entry = it.next();
+			sortedMap.put(entry.getKey(), entry.getValue());
+		}
+		return sortedMap;
 	}
 }
