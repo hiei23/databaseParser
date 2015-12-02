@@ -134,13 +134,13 @@ public class databaseAnswersParser
 			
 			for (int click : q.getClick().keySet())
 			{	
-				String currentClick = "Click " + click + ", Clicked\n";
+				String currentClick = "Click " + click + "\n";
 				bw.write(currentClick);
 				Map<String, Integer> attributesMap = q.getClick().get(click);
 				List<String> tuples = new ArrayList<String>();
 				getTuples (attributesMap.keySet(), tuples, attributesMap,usedAttributes);
 				
-				tuples.sort(new tupleComparator());
+				//tuples.sort(new tupleComparator());
 				
 				for (String tuple: tuples)
 				{
@@ -169,9 +169,7 @@ public class databaseAnswersParser
 			int current_counter = attributesMap.get(attribute);
 			if ((current_counter == max) && (!usedAttributes.contains(attribute)))
 			{
-				String attributes = String.format("%s,%s\n", 
-													attribute, 
-													current_counter);
+				String attributes = String.format("%s\n", attribute);
 				tuples.add(attributes);
 				usedAttributes.add(attribute);
 			}

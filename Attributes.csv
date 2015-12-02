@@ -1,372 +1,374 @@
-"	Question 1",
-Click 1, Clicked
-right ear heart,3
-,
-,
-Click 2, Clicked
-left ring,2
-belt,2
-,
-,
-Click 3, Clicked
-right bracelet,2
-,
-,
-"	Question 2",
-Click 1, Clicked
-chest,2
-tails,2
-head light,2
-wings,2
-,
-,
-Click 2, Clicked
-lipstick,2
-,
-,
-Click 3, Clicked
-,
-,
-Click 4, Clicked
-right thigh,2
-,
-,
-Click 5, Clicked
-left sock,2
-right arm,2
-,
-,
-Click 6, Clicked
-,
-,
-Click 7, Clicked
-flower,3
-,
-,
-Click 8, Clicked
-,
-,
-Click 9, Clicked
-left glove,2
-,
-,
-"	Question 3",
-Click 1, Clicked
-hair,8
-,
-,
-Click 2, Clicked
-star,5
-,
-,
-Click 3, Clicked
-bow tie,4
-,
-,
-Click 4, Clicked
-wings,3
-,
-,
-Click 5, Clicked
-shirt vertical stripes,4
-,
-,
-"	Question 4",
-Click 1, Clicked
-hair,7
-,
-,
-Click 2, Clicked
-right head light,4
-,
-,
-Click 3, Clicked
-left head dot,4
-,
-,
-Click 4, Clicked
-left ear hair,3
-,
-,
-Click 5, Clicked
-nose,3
-,
-,
-Click 6, Clicked
-,
-,
-Click 7, Clicked
-left sleeve,3
-,
-,
-Click 8, Clicked
-shirt vertical pattern,2
-left glove,2
-,
-,
-Click 9, Clicked
-,
-,
-Click 10, Clicked
-stomach vertical pattern,2
-tail,2
-,
-,
-Click 11, Clicked
-right thigh,3
-,
-,
-Click 12, Clicked
-,
-,
-Click 13, Clicked
-right sock,3
-,
-,
-Click 14, Clicked
-left sock,2
-right bracelet,2
-,
-,
-"	Question 5",
-Click 1, Clicked
-center head light,2
-,
-,
-Click 2, Clicked
-right head light,3
-,
-,
-Click 3, Clicked
-mustache,2
-,
-,
-Click 4, Clicked
-bottom lip,3
-,
-,
-Click 5, Clicked
-left arm,4
-,
-,
-Click 6, Clicked
-left ring,4
-,
-,
-Click 7, Clicked
-shirt heart,4
-,
-,
-Click 8, Clicked
-belt heart,3
-,
-,
-Click 9, Clicked
-stomach line on left,4
-,
-,
-Click 10, Clicked
-right bracelet,3
-,
-,
-Click 11, Clicked
-right ring,2
-,
-,
-Click 12, Clicked
-,
-,
-Click 13, Clicked
-right sock,4
-,
-,
-Click 14, Clicked
-left sock,3
-,
-,
-Click 15, Clicked
-left shoelace,2
-,
-,
-"	Question 6",
-Click 1, Clicked
-left head dot,2
-,
-,
-Click 2, Clicked
-neck,2
-,
-,
-Click 3, Clicked
-right bracelet,2
-,
-,
-Click 4, Clicked
-left shoe,2
-,
-,
-Click 5, Clicked
-left beard,2
-,
-,
-"	Question 7",
-Click 1, Clicked
-head light,1
-head triangle,1
-,
-,
-Click 2, Clicked
-,
-,
-Click 3, Clicked
-beard,2
-,
-,
-Click 4, Clicked
-shirt stripes,2
-,
-,
-Click 5, Clicked
-shirt triangle,2
-,
-,
-"	Question 8",
-Click 1, Clicked
-hair,2
-,
-,
-Click 2, Clicked
-right head nail,1
-left flower,1
-,
-,
-Click 3, Clicked
-left ear hair,1
-,
-,
-Click 4, Clicked
-,
-,
-Click 5, Clicked
-bow tie,2
-,
-,
-Click 6, Clicked
-right ring,1
-tail,1
-,
-,
-Click 7, Clicked
-shirt diamond,1
-,
-,
-"	Question 9",
-Click 1, Clicked
-center head dot,1
-,
-,
-Click 2, Clicked
-nose,1
-,
-,
-Click 3, Clicked
-ribbon,1
-,
-,
-Click 4, Clicked
-left ring,1
-,
-,
-Click 5, Clicked
-shirt X,1
-,
-,
-Click 6, Clicked
-belt square,1
-,
-,
-Click 7, Clicked
-right bracelet,1
-,
-,
-Click 8, Clicked
-right shoelace,1
-,
-,
-"	Question 10",
-Click 1, Clicked
-left head nail,1
-,
-,
-Click 2, Clicked
-right beard thing,1
-,
-,
-Click 3, Clicked
-right head diamond,1
-,
-,
-Click 4, Clicked
-left ring,1
-,
-,
-Click 5, Clicked
-shirt stripes,1
-,
-,
-"	Question 11",
-Click 1, Clicked
-hair,1
-,
-,
-Click 2, Clicked
-right head star,1
-,
-,
-Click 3, Clicked
-left head triangle,1
-,
-,
-Click 4, Clicked
-wings,1
-,
-,
-Click 5, Clicked
-shirt stripes,1
-,
-,
-Click 6, Clicked
-shirt red X,1
-,
-,
-Click 7, Clicked
-under shirt stipe,1
-,
-,
-"	Question 12",
-Click 1, Clicked
-star,1
-,
-,
-Click 2, Clicked
-left head light,1
-,
-,
-Click 3, Clicked
-bow tie,1
-,
-,
-Click 4, Clicked
-wings,1
-,
-,
-Click 5, Clicked
-tails,1
-,
-,
-Click 6, Clicked
-right shoe,1
-,
-,
-Click 7, Clicked
-left shoe,1
+	Question 1
+Click 1
+right ear heart
+
+
+Click 2
+left ring
+belt
+
+
+Click 3
+right bracelet
+
+
+	Question 2
+Click 1
+chest
+tails
+head light
+wings
+
+
+Click 2
+lipstick
+
+
+Click 3
+
+
+Click 4
+right thigh
+
+
+Click 5
+left sock
+right arm
+
+
+Click 6
+
+
+Click 7
+flower
+
+
+Click 8
+
+
+Click 9
+left glove
+
+
+	Question 3
+Click 1
+hair
+
+
+Click 2
+star
+
+
+Click 3
+bow tie
+
+
+Click 4
+wings
+
+
+Click 5
+shirt vertical stripes
+
+
+	Question 4
+Click 1
+hair
+
+
+Click 2
+right head light
+
+
+Click 3
+left head dot
+
+
+Click 4
+left ear hair
+
+
+Click 5
+nose
+
+
+Click 6
+
+
+Click 7
+left sleeve
+
+
+Click 8
+shirt vertical pattern
+left glove
+
+
+Click 9
+
+
+Click 10
+stomach vertical pattern
+tail
+
+
+Click 11
+right thigh
+
+
+Click 12
+
+
+Click 13
+right sock
+
+
+Click 14
+left sock
+right bracelet
+
+
+	Question 5
+Click 1
+center head light
+
+
+Click 2
+right head light
+
+
+Click 3
+mustache
+
+
+Click 4
+bottom lip
+
+
+Click 5
+left arm
+
+
+Click 6
+left ring
+
+
+Click 7
+shirt heart
+
+
+Click 8
+belt heart
+
+
+Click 9
+stomach line on left
+
+
+Click 10
+right bracelet
+
+
+Click 11
+right ring
+
+
+Click 12
+
+
+Click 13
+right sock
+
+
+Click 14
+left sock
+
+
+Click 15
+left shoelace
+
+
+	Question 6
+Click 1
+left head dot
+
+
+Click 2
+neck
+
+
+Click 3
+right bracelet
+
+
+Click 4
+left shoe
+
+
+Click 5
+left beard
+
+
+	Question 7
+Click 1
+head light
+head triangle
+
+
+Click 2
+
+
+Click 3
+beard
+
+
+Click 4
+shirt stripes
+
+
+Click 5
+shirt triangle
+
+
+	Question 8
+Click 1
+hair
+
+
+Click 2
+right head nail
+left flower
+
+
+Click 3
+left ear hair
+
+
+Click 4
+
+
+Click 5
+bow tie
+
+
+Click 6
+right ring
+tail
+
+
+Click 7
+shirt diamond
+
+
+	Question 9
+Click 1
+center head dot
+
+
+Click 2
+nose
+
+
+Click 3
+ribbon
+
+
+Click 4
+left ring
+
+
+Click 5
+shirt X
+
+
+Click 6
+belt square
+
+
+Click 7
+right bracelet
+
+
+Click 8
+right shoelace
+
+
+	Question 10
+Click 1
+left head nail
+
+
+Click 2
+right beard thing
+
+
+Click 3
+right head diamond
+
+
+Click 4
+left ring
+
+
+Click 5
+shirt stripes
+
+
+	Question 11
+Click 1
+hair
+
+
+Click 2
+right head star
+
+
+Click 3
+left head triangle
+
+
+Click 4
+wings
+
+
+Click 5
+shirt stripes
+
+
+Click 6
+shirt red X
+
+
+Click 7
+under shirt stipe
+
+
+	Question 12
+Click 1
+star
+
+
+Click 2
+left head light
+
+
+Click 3
+bow tie
+
+
+Click 4
+wings
+
+
+Click 5
+tails
+
+
+Click 6
+right shoe
+
+
+Click 7
+left shoe
+
+
